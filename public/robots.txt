@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://skinsimulator.com/sitemap.xml
